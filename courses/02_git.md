@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Cette partie a été développée à partir de :
+Cette partie a été développée à partir de :git 
 - L'ouvrage de référence [Pro Git](https://git-scm.com/book/fr/v2)
 - [Wikipédia](https://fr.wikipedia.org/wiki/Git)
 - S'inspire grandement des supports de formation produits par la Communauté de Pratique Git d'AXA France que je remercie 
