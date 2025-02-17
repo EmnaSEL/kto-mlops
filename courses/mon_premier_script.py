@@ -13,7 +13,6 @@ def count_long_names(names: List[str]) -> int:
             print(f"{name} est un prénom avec un nombre de lettres inférieur ou égal à {LONG_NAME_THRESHOLD}")
             
     return long_names_count
-
 class TestNameLength(unittest.TestCase):
     def test_count_long_names(self):
         test_names = ["Guillaume", "Gilles", "Juliette", "Antoine", "François", "Cassandre"]
