@@ -97,3 +97,4 @@ def create_history_plots(history: History, plot_filepath: str):
   # save plot to file
   pyplot.savefig(plot_filepath)
   pyplot.close()
+
